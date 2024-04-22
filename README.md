@@ -1,4 +1,4 @@
-# Soil Scientist
+# Soil Scientist (Biogeochemistry and Sustainable Soil Management)
 
 ### About Me
 I am a biogeochemist focused on soil health and sustainable soil management within the soil-water-food-climate nexus. I am interested in working on root-soil-microbiome interactions, biogeochemistry, soil health and quality, and climate resiliency within agroecosystems in the context of human-caused and global environmental changes. My research is focused on a better understanding of the soil biogeochemical processes and the role of the soil microbiome - as affected by the complex interaction of land use management and climate extremes - as an indicator of soil health and climate resiliency related to soil water, greenhouse gasses emission, carbon sequestration, organic matter dynamics, and nutrient management under the umbrella of climate resilient and sustainable agriculture to combat soil degradation and safeguard global food security.
