@@ -28,5 +28,9 @@ Academic Visiting Scholar
 The Metabolomics Innovation Centre (TMIC) Research Hotel Program (Jan. 2024 – Jan. 2024) 
 Metabolomics and Systems Biology Laboratory, Department of Chemistry, Faculty of Science, 2036 Main Mall, University of British Columbia, Vancouver, BC, Canada.
 
+Post Doctoral Fellow & Project Manager for Soil Health and Quality theme of GIFS, USask  Bangladesh Strategic Partnership Project (Mar. 2021 – Feb. 2024)
+Global Institute for Food Security (GIFS), University of Saskatchewan, Saskatoon, SK Canada, &
+Department of Soil Science and Department of Plant Sciences, College of Agriculture and Bioresources, University of Saskatchewan, Saskatoon, SK, Canada. 
+
 ### Projects
 Soil Health and Quality
