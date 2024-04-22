@@ -28,6 +28,5 @@ Academic Visiting Scholar
 The Metabolomics Innovation Centre (TMIC) Research Hotel Program (Jan. 2024 – Jan. 2024) 
 Metabolomics and Systems Biology Laboratory, Department of Chemistry, Faculty of Science, 2036 Main Mall, University of British Columbia, Vancouver, BC, Canada.
 
-
 ### Projects
 Soil Health and Quality
