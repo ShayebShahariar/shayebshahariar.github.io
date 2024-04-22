@@ -29,3 +29,20 @@ Department of Soil Science and Department of Plant Sciences, College of Agricult
 
 ### Projects
 Soil Health and Quality
+
+### Technical and Analytical Skills 
+#### Data Analysis
+•	Multivariate Statistical Analysis: using R and Python (From PhD and Post-Doc research and current work experiences).
+•	Spatial Analysis and Geostatistics: Predictive Soil Mapping and Digital Elevation Modeling using ArcGIS10.3 and R.
+•	Chemometrics: Spectral data analysis for FTIR using R (From PhD research experiences); GC-MS and LC-MS data analysis using MS-DIAL, MetaboAnalyst 6.0, MetaboAnalystR and Python. 
+•	Spectroscopic Data Analysis for Synchrotron Techniques: spectroscopic and imaging data analysis and visualization. For soft X-ray absorption spectroscopy (XAS, XANES, and EXAFS) and X-ray fluorescence (XRF) imaging data analysis using Jupiter Notebook interface in Python and Athena/LARCH software; macro and micro X-ray fluorescence (XFI) imaging using PyMca software in Python.
+•	Machine Learning and Artificial Intelligence: Time Series Forecasting and Artificial Neural Network Analysis using R (From PhD research experiences); Structural Equation Modeling, Network Analysis, and Pathway Analysis using R and Python.	
+#### Physical, Chemical and Biological Analysis
+•	Elemental Analysis: soil and plant elements analysis using AAS, ICP-MS, and ICP-OES .
+•	Spectroscopic Analysis: using FTIR.
+•	Metabolomics: targeted and untargeted plant and microbial metabolites using LC-MS, GC-MS, and NMR techniques. 
+•	Molecular Techniques: Enzyme assay, DNA extraction, and PCR.
+•	Synchrotron Techniques: soft X-ray absorption spectroscopy (XAS, XANES, and EXAFS) and X-ray fluorescence (XRF) imaging using Spherical Grating Monochromator (SGM) Beamline; macro and micro X-ray fluorescence (XFI) imaging using BoXAS Imaging Beamline.
+•	Computed Tomography: X-ray CT Scanner and Applications in Soil Science and Image Reconstruction and Scientific Visualization using ImageJ.
+•	Two-Dimensional (2D) Root Phenotyping (Imaging and Image Analysis): WinRHIZO for scanning plant roots and analyzing root image data using ImageJ software.
+•	Li-COR: LI-600 Porometer/Fluorometer for high-speed measures of stomatal conductance and chlorophyll a fluorescence, and the LI-6800 Portable Photosynthesis System to measure photosynthetic gas exchange and chlorophyll a fluorescence from plant leaves.
